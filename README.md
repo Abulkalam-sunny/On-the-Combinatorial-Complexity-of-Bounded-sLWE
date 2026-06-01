@@ -8,7 +8,7 @@ The repository provides implementations of the complexity estimators, experiment
 
 ## Repository Structure
 
-
+```
 ├── Complexity_Estimators/
 │   ├── complexity_estimator_below_threshold.py
 │   └── complexity_estimator_above_threshold.py
@@ -20,7 +20,7 @@ The repository provides implementations of the complexity estimators, experiment
 └── Numerical_Validation/
     └── normal_approximation_validation.py
     
-
+```
 
 ---
 
