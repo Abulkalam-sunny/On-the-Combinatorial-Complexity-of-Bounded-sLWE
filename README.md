@@ -10,15 +10,25 @@ The repository provides implementations of the complexity estimators, experiment
 
 
 ├── Complexity_Estimators/
+
 │   ├── complexity_estimator_below_threshold.py
+
 │   └── complexity_estimator_above_threshold.py
+
 │
+
 ├── Experimental_Verification/
+
 │   ├── experimental_verification_algorithm4.sage
+
 │   └── experimental_verification_algorithm5.sage
+
 │
+
 └── Numerical_Validation/
+
     └── normal_approximation_validation.py
+    
 
 
 ---
