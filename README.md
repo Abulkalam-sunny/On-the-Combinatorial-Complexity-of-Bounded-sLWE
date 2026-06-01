@@ -1,3 +1,6 @@
+
+# On the Combinatorial Complexity of Bounded Sparse Learning with Errors
+
 This repository contains the source code accompanying the paper:
 
 **“On the Combinatorial Complexity of Bounded Sparse Learning with Errors (sLWE)”**
